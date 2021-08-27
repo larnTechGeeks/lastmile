@@ -374,7 +374,7 @@ img {
 
 /* ======== start header =========== */
 .main_header {
-  background: rgb(111, 86, 223);
+  background: #fff;
   min-height: 5rem;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
